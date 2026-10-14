@@ -1,0 +1,2 @@
+{"event_time":"2026-10-10T00:00:01Z","actor":"lab-user","action":"login_failed","source_ip":"192.0.2.40","target":"lab-app","event_id":"saas-001"}
+{"event_time":"2026-10-10T00:00:02Z","actor":"lab-admin","action":"api_token_created","source_ip":"192.0.2.41","target":"lab-app","event_id":"saas-002"}

@@ -1,0 +1,3 @@
+event_id=fw-001 event_time=2026-10-10T00:00:01+0000 src_ip=192.0.2.10 dest_ip=198.51.100.20 src_port=51515 dest_port=443 action=allow protocol=tcp rule_id=LAB-01
+event_id=fw-002 event_time=2026-10-10T00:00:02+0000 src_ip=192.0.2.11 dest_ip=198.51.100.21 src_port=51516 dest_port=22 action=deny protocol=tcp rule_id=LAB-02
+event_id=fw-003 event_time=2026-10-10T00:00:03+0000 src_ip=192.0.2.12 dest_ip=198.51.100.22 src_port=51517 dest_port=53 action=drop protocol=udp rule_id=LAB-03

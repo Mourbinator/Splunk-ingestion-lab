@@ -1,0 +1,1 @@
+{"timestamp":"2026-10-10T00:00:01Z","logName":"projects/lab/logs/cloudaudit.googleapis.com%2Factivity","protoPayload":{"methodName":"google.iam.admin.v1.CreateServiceAccountKey","authenticationInfo":{"principalEmail":"lab@example.invalid"}}}

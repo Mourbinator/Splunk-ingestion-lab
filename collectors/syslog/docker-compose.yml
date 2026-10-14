@@ -1,0 +1,9 @@
+services:
+  syslog-ng:
+    image: balabit/syslog-ng:latest
+    container_name: soc-lab-syslog
+    ports: ["5514:5514/udp"]
+    volumes:
+      - ./syslog-ng.conf:/etc/syslog-ng/syslog-ng.conf:ro
+      - ./data:/var/log/soc-lab
+    restart: unless-stopped

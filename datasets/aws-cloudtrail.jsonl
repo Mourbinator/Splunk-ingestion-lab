@@ -1,0 +1,2 @@
+{"eventVersion":"1.08","eventTime":"2026-10-10T00:00:01Z","eventSource":"s3.amazonaws.com","eventName":"GetObject","awsRegion":"us-east-1","sourceIPAddress":"192.0.2.30","userIdentity":{"type":"IAMUser","userName":"lab-user"},"requestID":"lab-aws-001"}
+{"eventVersion":"1.08","eventTime":"2026-10-10T00:00:02Z","eventSource":"iam.amazonaws.com","eventName":"CreateAccessKey","awsRegion":"us-east-1","sourceIPAddress":"192.0.2.31","userIdentity":{"type":"IAMUser","userName":"lab-user"},"requestID":"lab-aws-002"}
